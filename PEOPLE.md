@@ -1,1 +1,1 @@
-Haskell Cutty
+Haskell Curry
